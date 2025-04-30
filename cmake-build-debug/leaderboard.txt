@@ -1,0 +1,8 @@
+mertcan 16
+ali 12
+faruk 26
+atacan 28
+berhan 35
+
+mert 30
+mert 23

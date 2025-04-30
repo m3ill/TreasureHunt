@@ -1,0 +1,3 @@
+C:/Users/Mertc/CLionProjects/trasureHunt/cmake-build-debug/CMakeFiles/trasureHunt.dir
+C:/Users/Mertc/CLionProjects/trasureHunt/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Mertc/CLionProjects/trasureHunt/cmake-build-debug/CMakeFiles/rebuild_cache.dir
